@@ -1,13 +1,15 @@
-add =  # Ihr Code hier
+add = lambda a, b: a + b  # Funktion zum Addieren zweier Zahlen
 
-subtract =   # Ihr Code hier
+subtract = lambda a, b: a - b  # Funktion zum Subtrahieren zweier Zahlen
 
-multiply =   # Ihr Code hier
+multiply = lambda a, b: a * b  # Funktion zum Multiplizieren zweier Zahlen
 
-divide =   # Ihr Code hier, beachten Sie die Fehlermeldung bei Division durch Null 'Division durch Null ist nicht erlaubt!'
+divide = lambda a, b: a / b if b != 0 else 'Division durch Null ist nicht erlaubt!'  # Funktion zum Teilen zweier Zahlen
+
 
 if __name__ == '__main__':
 
+    # Testen Sie Ihre Funktionen hier
     print (add(5, 10))
     print(subtract(10, 5))
     print(multiply(3, 4))
