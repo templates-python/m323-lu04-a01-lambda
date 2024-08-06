@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test_add",
+    "function": "test_add",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_subtract",
+    "function": "test_subtract",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_multiply",
+    "function": "test_multiply",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_divide",
+    "function": "test_divide",
+    "timeout": 10,
+    "points": 1
+  }
+]
