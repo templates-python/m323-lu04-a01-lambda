@@ -1,3 +1,8 @@
+"""Einfache Lambda Ausdrücke.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/lambda1
+"""
+
 add =  # Ihr Code hier
 
 subtract =   # Ihr Code hier
